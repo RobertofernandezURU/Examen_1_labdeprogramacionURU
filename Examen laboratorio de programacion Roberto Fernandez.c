@@ -54,6 +54,6 @@ else if (PromedioFinal<6)
 
 //Se imprimen los Resultados
 cout << "Total de Notas parciales:"<<sumatoria<<end1;
-cout << "Promedio de Notas parciales:"<<PromedioFinal<<en1;
+cout << "Promedio de Notas parciales:"<<PromedioFinal<<end1;
 cout << "Nota Final:"<<
 
